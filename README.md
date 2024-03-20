@@ -30,3 +30,6 @@ To get Bootstrap and router into your project
 ### Edit the code to meet your needs!
 
 Hint: Add a survey to your application through which you can collect the desired data.
+
+
+<img width="832" alt="dashboard-1" src="https://github.com/jonnamaa/Simple-Chart-Dashboard-App/assets/90387330/f6971bc9-b9dc-4381-94ed-2058699a5357">
